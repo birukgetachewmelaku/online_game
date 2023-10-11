@@ -1,0 +1,2 @@
+# commitedd
+echo "locashinkof"
